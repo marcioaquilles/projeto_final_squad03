@@ -1,0 +1,14 @@
+google-cloud-storage==2.9.0
+gspread==5.7.2
+pandas==2.1.1
+mysql-connector-python==8.1.0
+google-cloud-bigquery==3.10.0
+SQLAlchemy==2.0.20
+pymongo==4.12.0
+boto3==1.28.5
+botocore==1.31.5
+azure-storage-blob==12.15.1
+pymssql==2.2.4
+tqdm==4.66.1
+pyodbc==4.0.32
+python-dotenv==1.0.0

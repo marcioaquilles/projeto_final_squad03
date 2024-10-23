@@ -37,45 +37,45 @@ Após o processamento, os dados tratados foram carregados em ferramentas de visu
 
 - **Criação do Bucket no Google Cloud Storage**:
 
-  ![Criação do Bucket no GCP](./squad03/images/gcp_bucket_creation.png)
+  ![Criação do Bucket no GCP](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/gcp_bucket_creation.png)
 
 - **Big Query Google Cloud Storage**:
 
-  ![Criação do Bucket no GCP](./squad03/images/gcp_big_query_creation.png)
+  ![Criação Big Query no GCP](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/gcp_big_query_creation.png)
 
 - **Criação da Instância MySQL no Google Cloud SQL**:
 
-  ![Criação do MySQL no GCP](./squad03/images/gcp_mysql_instance.png)
+  ![Criação do MySQL no GCP](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/gcp_mysql_instance.png)
 
 ### AWS
 
 - **Criação do Bucket no AWS S3**:
 
-  ![Criação do Bucket no AWS S3](./squad03/images/aws_s3_bucket.png)
+  ![Criação do Bucket no AWS S3](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/aws_s3_bucket.png)
 
 - **Criação da Instância MySQL no AWS RDS**:
 
-  ![Criação do MySQL no AWS RDS](./squad03/images/aws_rds_mysql.png)
+  ![Criação do MySQL no AWS RDS](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/aws_rds_mysql.png)
 
 ### Azure
 
 - **Criação do Blob Storage no Azure**:
 
-  ![Criação do Blob Storage no Azure](./squad03/images/azure_blob_storage.png)
+  ![Criação do Blob Storage no Azure](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/azure_blob_storage.png)
 
 - **Criação da Instância SQL no Azure SQL Database**:
 
-  ![Criação do MySQL no Azure SQL Database](./squad03/images/azure_sql_database.png)
+  ![Criação do MySQL no Azure SQL Database](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/azure_sql_database.png)
 
 ### Arquivos relacionados:
 
 - **Modelo Entidade Relacionamento (MER)**:
 
-  ![Modelo Entidade Relacionamento (MER)](./squad03/images/modelo_entidade_relacionamento.jpg)
+  ![Modelo Entidade Relacionamento (MER)](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/modelo_entidade_relacionamento.jpg)
 
 - **Banco de Dados Não Relacional**:
 
-  ![MongoDB Atlas](./squad03/images/mongodb_atlas.png)
+  ![MongoDB Atlas](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/mongodb_atlas.png)
 
 ## Etapa 02: Extração, Transformação e Carga (ETL)
 
@@ -113,15 +113,15 @@ Com essas métricas, foi possível identificar os veículos com maior relevânci
 
 - **Conexão do PowerBI com o Big Query do GCP**:
 
-  ![Conexão PowerBI](./squad03/images/powerbi_connection.png)
+  ![Conexão PowerBI](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/powerbi_connection.png)
 
 - **Desenvolvimento dos DashBoards PowerBI**:
 
-  ![Desenvolvimento DashBoard PowerBI](./squad03/images/powerbi_development_process.png)
+  ![Desenvolvimento DashBoard PowerBI](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/powerbi_development_process.png)
 
 - **DashBoard Final PowerBI - Página Custos Operacionais em Destaque**:
 
-  ![Dashboard Final PowerBI](./squad03/images/powerbi_dashboard.png)
+  ![Dashboard Final PowerBI](https://github.com/marcioaquilles/projeto_final_squad03/raw/main/images/powerbi_dashboard.png)
 
 ## Etapa 05: Aplicação do Algoritmo K-Means
 
